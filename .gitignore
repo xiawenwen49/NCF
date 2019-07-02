@@ -1,0 +1,7 @@
+*.params
+*.states
+*.json
+.vscode/
+__pycache__/
+data/
+
